@@ -1,4 +1,4 @@
-module go-clipboard
+module github.com/hyhecor/go-clipboard
 
 go 1.26.1
 
