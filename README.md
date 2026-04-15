@@ -4,6 +4,14 @@ It provides simple copy and paste functionality to the clipboard in the Command 
 
 ## TL;DT
 
+Install from code
+
+```sh
+go install github.com/hyhecor/go-clipboard/...
+```
+
+Usage example
+
 ```sh
 $ date | gocopy
 $ gopaste | cat 
