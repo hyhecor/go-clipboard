@@ -7,7 +7,7 @@ It provides simple copy and paste functionality to the clipboard in the Command 
 Install from code
 
 ```sh
-go install github.com/hyhecor/go-clipboard/...
+go install github.com/hyhecor/go-clipboard/...@latest
 ```
 
 Usage example
